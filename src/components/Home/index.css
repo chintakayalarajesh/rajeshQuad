@@ -1,0 +1,145 @@
+.home-page {
+  height: 160vh;
+  background-color: #000033;
+}
+.heading-image {
+  height: 60px;
+  width: 280px;
+  font-weight: 400;
+  margin-left: 15px;
+}
+.button {
+  height: 27px;
+  width: 80px;
+  border-width: 0px;
+  border-radius: 8px;
+  color: #ffffff;
+  font-weight: bold;
+  background-color: #3e3f40;
+}
+.selectbutton {
+  background-color: #3e3f40;
+  border-radius: 6px;
+  border-width: 0px;
+  color: #ffffff;
+  font-weight: bold;
+  height: 27px;
+  width: 50px;
+  margin: 10px;
+}
+.telegram-button {
+  display: flex;
+  flex-direction: row;
+  height: 40px;
+  width: 200px;
+  color: #ffffff;
+  font-weight: 400;
+  background-color: aqua;
+  font-size: 18px;
+  border-radius: 14px;
+  font-weight: 600;
+  padding-top: 8px;
+  text-align: center;
+  border-width: 0px;
+}
+.icon {
+  margin-right: 8px;
+  margin-top: 2px;
+}
+.bg-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-top: 22px;
+}
+.On-icon {
+  color: #27c9c9;
+  background-color: transparent;
+  border-width: 0px;
+}
+.heading {
+  font-family: Oswald;
+  font-size: 35px;
+  color: #ffffff;
+  font-weight: bold;
+  color: #27c9c9;
+}
+.para {
+  color: #9ca0a0;
+  font-size: 18px;
+}
+.heading1 {
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 60px;
+}
+.percentage-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 15px;
+}
+.para1 {
+  font-size: 20px;
+  color: #9ca0a0;
+  padding-left: 28px;
+  padding-bottom: 10px;
+  margin-top: 0px;
+}
+.currency {
+  padding-top: 10px;
+}
+.heading2 {
+  color: #000000;
+  font-weight: bold;
+  font-size: 60px;
+}
+.hash {
+  font-size: 45px;
+  color: #9ca0a0;
+}
+.hash1 {
+  font-size: 30px;
+  color: #9ca0a0;
+}
+.attribute {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.bg-yes {
+  background-color: #3e3f40;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+.one {
+  color: #ffffff;
+  font-size: 20px;
+}
+.waz {
+  height: 50px;
+  width: 50px;
+  margin: 8px;
+}
+.wazirx {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.value {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.one1 {
+  color: red;
+  font-size: 20px;
+}
+.one2 {
+  color: #27c9c9;
+  font-size: 20px;
+}
+.copy {
+  color: #3e3f40;
+  font-size: 20px;
+}
